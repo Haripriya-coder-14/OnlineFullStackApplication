@@ -1,4 +1,4 @@
-# 🍽️ FoodieExpress — Full Stack Java Food Delivery App
+# 🍽️ SAV — Full Stack Java Food Delivery App
 
 **Built solo, debugged passionately, and styled to perfection**  
 A full-stack food ordering web app crafted using Java Servlets, JSP, and JDBC—featuring responsive UI inspired by Swiggy & Zomato. Designed with real-world flows, session handling, and cart logic. Every line written with persistence and pride 🌶️
@@ -20,9 +20,9 @@ A full-stack food ordering web app crafted using Java Servlets, JSP, and JDBC—
 | Layer         | Tools & Concepts Used                         |
 |---------------|-----------------------------------------------|
 | Backend       | Java Servlets, JDBC, DAO Pattern              |
-| Frontend      | JSP, HTML, CSS (Poppins font, custom icons)  |
+| Frontend      | JSP, HTML, CSS (Poppins font, custom icons)   |
 | Database      | MySQL (with normalized tables)                |
-| Architecture  | Session Management, MVC-ish flow             |
+| Architecture  | Session Management, MVC-ish flow              |
 
 ---
 
@@ -58,9 +58,10 @@ OnlineFullStackApplication/
 
 ---
 
-## 📸 Screenshots
+## 🎬 Live Demo
 
-> _Add some screenshots here using GitHub’s image uploader or links once pushed_
+[▶️ Watch FoodieExpress Demo on Google Drive](https://drive.google.com/file/d/1e1DWY05LflIg8n-ZCCUZJihfFZ2M_IFw/view?usp=drivesdk)
+
 
 ---
 
